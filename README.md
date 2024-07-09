@@ -64,4 +64,4 @@ If you would like to contribute to this project, please feel free to fork the re
 
 # Contact
 
-If you have any questions or suggestions about the project, feel free to contact us at heyykvr@gmail.com.
+If you have any questions or suggestions about the project, feel free to contact us at chinnimeesala2002@gmail.com.
